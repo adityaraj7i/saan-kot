@@ -1,0 +1,28 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Saan KOT (Android Emulator / Device)",
+      "request": "launch",
+      "type": "dart"
+    },
+    {
+      "name": "Saan KOT (Chrome Web)",
+      "request": "launch",
+      "type": "dart",
+      "deviceId": "chrome"
+    },
+    {
+      "name": "Saan KOT (Windows Desktop)",
+      "request": "launch",
+      "type": "dart",
+      "deviceId": "windows"
+    },
+    {
+      "name": "Saan KOT (Edge Web)",
+      "request": "launch",
+      "type": "dart",
+      "deviceId": "edge"
+    }
+  ]
+}
